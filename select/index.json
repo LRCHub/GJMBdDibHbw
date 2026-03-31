@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "いかれたBaby",
+  "base_artist": "モトーラ世理奈",
+  "createdAt": "2026-03-31T14:29:31.116734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いかれたBABY",
+      "artist": "Fishmans",
+      "has_synced": true,
+      "path": "select/01_いかれたBABY_Fishmans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いかれたBaby",
+      "artist": "角銅真実",
+      "has_synced": true,
+      "path": "select/02_いかれたBaby_角銅真実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いかれたBaby - Live",
+      "artist": "Fishmans",
+      "has_synced": false,
+      "path": "select/03_いかれたBaby_-_Live_Fishmans.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いかれたBaby",
+      "artist": "Sake Rock",
+      "has_synced": false,
+      "path": "select/04_いかれたBaby_Sake_Rock.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いかれたBABY",
+      "artist": "MIZUKI OHIRA",
+      "has_synced": true,
+      "path": "select/05_いかれたBABY_MIZUKI_OHIRA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いかれたBABY",
+      "artist": "Mizuki Ohira",
+      "has_synced": false,
+      "path": "select/06_いかれたBABY_Mizuki_Ohira.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いかれたBaby (Live)",
+      "artist": "Fishmans",
+      "has_synced": false,
+      "path": "select/07_いかれたBaby_(Live)_Fishmans.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いかれたBaby (1998.12.28 @ 赤坂Blitz)",
+      "artist": "Fishmans",
+      "has_synced": true,
+      "path": "select/08_いかれたBaby_(1998.12.28_@_赤坂Blitz)_Fishmans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いかれたBaby",
+      "artist": "モトーラ世理奈",
+      "has_synced": false,
+      "path": "select/pl_01_いかれたBaby_モトーラ世理奈.txt"
+    }
+  ]
+}
